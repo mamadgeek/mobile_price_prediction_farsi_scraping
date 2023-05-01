@@ -1,0 +1,1 @@
+# mobile_price_prediction_farsi_scraping
